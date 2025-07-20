@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532491130377",
+    "project_id": "bite-buddy-79b9c",
+    "storage_bucket": "bite-buddy-79b9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532491130377:android:bdbb8159d610027e80cad8",
+        "android_client_info": {
+          "package_name": "com.example.bitebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532491130377-smr3ntim0qbidejhrcve2bubmorc9dtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUjTMhxjUruNlXYHwPaERbmE94EBPniQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532491130377-smr3ntim0qbidejhrcve2bubmorc9dtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
