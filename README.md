@@ -1,16 +1,36 @@
-# bitebuddy
+<<<<<<< HEAD
 
-A new Flutter project.
+# BiteBuddy
+
+>BiteBuddy is a cross-platform Flutter application designed to help users manage meal planning, pantry inventory, recipes, and more. It integrates AI-powered features and cloud services for a seamless food management experience.
+
+## Features
+- AI assistant for meal planning and recipe suggestions
+- Pantry management and shopping list
+- Community features for sharing and discovering recipes
+- Notifications and reminders
+- Multi-platform support: Android, iOS, Web, Windows, macOS, Linux
 
 ## Getting Started
+Clone the repository and run the app using Flutter:
 
-This project is a starting point for a Flutter application.
+```sh
+git clone https://github.com/ossy-harz/BiteBuddy.git
+cd BiteBuddy
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Project Structure
+- `lib/` - Main Dart codebase (models, providers, screens, services, widgets)
+- `android/`, `ios/`, `web/`, `windows/`, `macos/`, `linux/` - Platform-specific code
+- `assets/` - Images and icons
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License.
+=======
+# BiteBuddy
+>>>>>>> c31af0d12b9c8281747f6eb2937f14f24d9afbd5
